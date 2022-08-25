@@ -44,7 +44,6 @@ line-height: 1.5;
 
 .intro-container {
   background-color: #9D9F9E;
-  position: relative;
   padding: 170px;
 }
 
@@ -54,12 +53,6 @@ line-height: 1.5;
   object-fit:cover
 }
 
-.intro {
-position: relative;
-bottom: 50%;
-}
-
-
 .profile-container {
   padding: 280px;
   background-color: rgb(214, 212, 214);
@@ -67,7 +60,9 @@ bottom: 50%;
 
 .profile-text {
   width: 530px;
-  margin: auto;
+  padding: 50px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .gigachad {
